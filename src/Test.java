@@ -7,5 +7,6 @@ public class Test
 		System.out.println("haha");
 		System.out.println("haha");
 		System.out.println("abcd");
+		System.out.println("haha");
 	}
 }
